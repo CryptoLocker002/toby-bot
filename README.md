@@ -40,7 +40,7 @@ AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PART
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/BrunoSobrino/Mystic-termux
+> git clonar https://github.com/CryptoLocker002/toby-bot.git
 > cd toby-bot
 > npm install 
 > yarn install 
