@@ -72,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/CryptoLocker002"><img src="https://avatars.githubusercontent.com/u/91295669?v=4" width="300" height="300" alt="CryptoLocker002"/></a>
 
 <h1  align="center"> grupo de whatsapp aqui </h1>
-<a href="https://api.whatsapp.com/send/?phone=573042499337&text&type=phone_number&app_absent=0">
+<a href="https://api.whatsapp.com/send/?phone=573205891193&text&type=phone_number&app_absent=0">
             <button type="button" align="left"><img src="https://ebweb.es/wp-content/uploads/2020/09/logo-wasap.png" height ="50" width="50" /></button>
 
 `ᴛᴏʙʏ-ʙᴏᴛ ʙʏ ʜᴜɴᴛᴇʀ ᴅᴇxᴛᴇʀ`
