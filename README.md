@@ -1,3 +1,13 @@
+<p align="center">
+<img src="https://github.com/CryptoLocker002/Ratchel-linux/blob/main/src/assistant.jpg" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/CryptoLocker002"><img title="Author" src="https://img.shields.io/badge/Author-hunter%20dexter-red"></a>
+</p>
+
 # `♢💜  тØ𝔹ץ вｏⓉ  😎♧`
 
 
